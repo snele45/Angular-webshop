@@ -1,0 +1,168 @@
+[
+    {
+        "id": 1,
+        "name": "Crni Sako",
+        "type": "Odeća",
+        "size": "L",
+        "producer": "Zara",
+        "date": "05.09.2023",
+        "price": "120.00",
+        "imageUrl": "assets/2.png",
+        "ratings": []
+    },
+    {
+        "id": 2,
+        "name": "Zeleni Kaput",
+        "type": "Odeća",
+        "size": "M",
+        "producer": "H&M",
+        "date": "06.09.2023",
+        "price": "150.00",
+        "imageUrl": "assets/3.png",
+        "ratings": []
+    },
+    {
+        "id": 3,
+        "name": "Plava Bluza sa Mašnom",
+        "type": "Odeća",
+        "size": "S",
+        "producer": "Mango",
+        "date": "07.09.2023",
+        "price": "70.00",
+        "imageUrl": "assets/4.png",
+        "ratings": []
+    },
+    {
+        "id": 4,
+        "name": "Šarena Prugasta Jakna",
+        "type": "Odeća",
+        "size": "L",
+        "producer": "Bershka",
+        "date": "08.09.2023",
+        "price": "95.00",
+        "imageUrl": "assets/6.png",
+        "ratings": []
+    },
+    {
+        "id": 5,
+        "name": "Haljina sa Cvetnim Printom",
+        "type": "Odeća",
+        "size": "M",
+        "producer": "Stradivarius",
+        "date": "09.09.2023",
+        "price": "65.00",
+        "imageUrl": "assets/7.png",
+        "ratings": []
+    },
+    {
+        "id": 6,
+        "name": "Pidžama na Cvetove",
+        "type": "Odeća",
+        "size": "S",
+        "producer": "Victoria's Secret",
+        "date": "10.09.2023",
+        "price": "50.00",
+        "imageUrl": "assets/8.png",
+        "ratings": []
+    },
+    {
+        "id": 7,
+        "name": "Bela Majica",
+        "type": "Odeća",
+        "size": "M",
+        "producer": "Nike",
+        "date": "11.09.2023",
+        "price": "20.00",
+        "imageUrl": "assets/9.png",
+        "ratings": []
+    },
+    {
+        "id": 8,
+        "name": "Crvena Polo Majica",
+        "type": "Odeća",
+        "size": "L",
+        "producer": "Lacoste",
+        "date": "12.09.2023",
+        "price": "35.00",
+        "imageUrl": "assets/10.png",
+        "ratings": []
+    },
+    {
+        "id": 9,
+        "name": "Crna Dukserica sa Kapuljačom",
+        "type": "Odeća",
+        "size": "XL",
+        "producer": "Adidas",
+        "date": "13.09.2023",
+        "price": "55.00",
+        "imageUrl": "assets/11.png",
+        "ratings": []
+    },
+    {
+        "id": 10,
+        "name": "Majica Dugih Rukava",
+        "type": "Odeća",
+        "size": "M",
+        "producer": "Champion",
+        "date": "14.09.2023",
+        "price": "30.00",
+        "imageUrl": "assets/12.png",
+        "ratings": []
+    },
+    {
+        "id": 11,
+        "name": "Burgundy Majica",
+        "type": "Odeća",
+        "size": "L",
+        "producer": "Gucci",
+        "date": "15.09.2023",
+        "price": "45.00",
+        "imageUrl": "assets/13.png",
+        "ratings": []
+    },
+    {
+        "id": 12,
+        "name": "Žuta Haljina",
+        "type": "Odeća",
+        "size": "M",
+        "producer": "Prada",
+        "date": "16.09.2023",
+        "price": "120.00",
+        "imageUrl": "assets/14.png",
+        "ratings": []
+    },
+    {
+        "id": 13,
+        "name": "Siva Bluza",
+        "type": "Odeća",
+        "size": "S",
+        "producer": "Zara",
+        "date": "17.09.2023",
+        "price": "60.00",
+        "imageUrl": "assets/15.png",
+        "ratings": []
+    },
+    {
+        "id": 14,
+        "name": "Plavi Ogrtač",
+        "type": "Odeća",
+        "size": "M",
+        "producer": "Mango",
+        "date": "18.09.2023",
+        "price": "80.00",
+        "imageUrl": "assets/16.png",
+        "ratings": []
+    },
+    {
+        "id": 15,
+        "name": "Karirana Košulja",
+        "type": "Odeća",
+        "size": "L",
+        "producer": "Levi's",
+        "date": "19.09.2023",
+        "price": "40.00",
+        "imageUrl": "assets/17.png",
+        "ratings": []
+    }
+  ]
+  
